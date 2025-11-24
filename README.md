@@ -9,13 +9,37 @@
 Welcome to **Ramanux Lab** — your one-stop destination to master **Math, Machine Learning, NLP, LLMs, and GenAI** with absolute clarity.
 
 Here, we break down complex topics into simple, intuitive lessons backed by real-world implementations. Whether you're a beginner building foundations or a professional sharpening your expertise, this channel gives you a complete roadmap from:
+## 📘 Course Roadmap
 
-• **Math for ML** (Probability, Stats, Linear Algebra, Calculus)
-• **Machine Learning Fundamentals & Projects**
-• **Deep Learning & Neural Networks**
-• **NLP Basics to Transformers**
-• **LLMs, RAG, Agents, LangChain & GenAI Systems**
-• **Specialized Legal AI (Judgment Parsing, Legal QA, Fine-tuning LLMs)**
+- **Math for Machine Learning**
+  - Statistics & Distributions
+  - Probability & Random Variables    
+  - Linear Algebra for ML  
+  - Calculus & Optimization  
+
+- **Machine Learning Fundamentals & Projects**
+  - Supervised & Unsupervised Learning  
+  - Model Evaluation, Bias–Variance, Regularization  
+  - End-to-end ML Projects  
+
+- **Deep Learning & Neural Networks**
+  - Perceptrons, Backpropagation  
+  - CNNs, RNNs, LSTMs  
+  - Training Tricks & Optimization  
+
+- **Natural Language Processing**
+  - Text Processing & Word Embeddings  
+  - Seq2Seq Models, Attention  
+  - Transformers Architecture  
+
+- **LLMs, RAG, Agents, LangChain & GenAI Systems**
+  - LLM Theory & Tokenization  
+  - RAG Pipelines & Vector Databases  
+  - LangChain, LangGraph, Agents  
+  - Fine-tuning with LoRA / PEFT  
+
+
+
 
 Every video is designed to help you **understand, apply, and build**.
 
