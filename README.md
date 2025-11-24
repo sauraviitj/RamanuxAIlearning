@@ -7,6 +7,11 @@
 
 
 Welcome to **Ramanux Lab** — your one-stop destination to master **Math, Machine Learning, NLP, LLMs, and GenAI** with absolute clarity.
+## 📺 YouTube Channel
+
+Follow the full video series here:  
+👉 **[Ramanux Lab — YouTube Channel]([UC-r78Q4C7TPgN6hSSxR6wXA](https://youtube.com/@ramanuxailabs?si=QoJAqXzST8IhTNCs))**  
+Subscribe for deep dives into ML, NLP, GenAI, and Legal AI systems!
 
 Here, we break down complex topics into simple, intuitive lessons backed by real-world implementations. Whether you're a beginner building foundations or a professional sharpening your expertise, this channel gives you a complete roadmap from:
 ## 📘 Course Roadmap
