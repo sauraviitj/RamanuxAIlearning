@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="ramanux.png" alt="Result" width="100"/>
+</p>
+
+
+
+
 Welcome to **Ramanux Lab** — your one-stop destination to master **Math, Machine Learning, NLP, LLMs, and GenAI** with absolute clarity.
 
 Here, we break down complex topics into simple, intuitive lessons backed by real-world implementations. Whether you're a beginner building foundations or a professional sharpening your expertise, this channel gives you a complete roadmap from:
