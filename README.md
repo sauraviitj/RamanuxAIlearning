@@ -10,7 +10,7 @@ Welcome to **Ramanux Lab** — your one-stop destination to master **Math, Machi
 ## 📺 YouTube Channel
 
 Follow the full video series here:  
-👉 **[Ramanux Lab — YouTube Channel](https://youtube.com/@ramanuxailabs?si=QoJAqXzST8IhTNCs)**  
+👉 **[Ramanux Lab — YouTube Channel](https://www.youtube.com/channel/UCDOXbQrcGPtwwJIsu5cyP6A)**  
 Subscribe for deep dives into ML, NLP, GenAI, and Legal AI systems!
 
 Here, we break down complex topics into simple, intuitive lessons backed by real-world implementations. Whether you're a beginner building foundations or a professional sharpening your expertise, this channel gives you a complete roadmap from:
